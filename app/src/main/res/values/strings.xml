@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dragon</string>
+    <string name="heading">MVVM Arquitectura Pattern</string>
+    <string name="email_hint">Ingrese su correo</string>
+    <string name="password_hint">Ingrese su contraseña</string>
+    <string name="button_text">Iniciar Sesión</string>
+</resources>
